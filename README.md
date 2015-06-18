@@ -1,6 +1,6 @@
 #inView
 
-v1.0.0
+v1.1.0
 
 A small jQuery plugin that detects when an element enters the viewport.
 

@@ -35,7 +35,9 @@ $.fn.inView = function(handler){
 };
 function inView(s,h){$(s).inView(h)};
 $(function(){
-  $("*[data-inview]").each(function(i,el){
-    $(el).inView();
-  });
+  window.setTimeout(function(){
+    $("*[data-inview]").each(function(i,el){
+      $(el).inView();
+    });
+  }, 100); // Give CSS time to load and everything to reposition before testing if in view
 });
