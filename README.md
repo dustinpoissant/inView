@@ -1,3 +1,6 @@
+# Depreciated
+Do not use this, first off jQuery is dead, secondly the [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) is a better option.
+
 # inView
 
 v1.1.0
