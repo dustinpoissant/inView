@@ -78,9 +78,9 @@ To use this plugin, after DOM ready, use jquery to select the element you wish t
 	  <div id='myElem'>Can you see me?</div>
 	</body>
 
-##E xamples
+## Examples
 
-###[ HTML Usage](examples/usage-html.html)
+### [HTML Usage](examples/usage-html.html)
 A Basic example showing the HTML usage.
 
 ### [JavaScript Usage](examples/usage-javascript.html)
